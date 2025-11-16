@@ -1,7 +1,5 @@
-# 👥 Thành viên dự án & Vai trò
-
-Dự án được thực hiện bởi nhóm gồm 4 thành viên lớp K23DTCN – PTIT HCM.  
-Dưới đây là danh sách thành viên cùng vai trò tương ứng:
+# 👥 Thành viên dự án & Vai trò  
+Dự án *Quản Lý Đặt Bàn Nhà Hàng* được thực hiện theo mô hình Agile/Scrum, gồm 4 thành viên lớp K23DTCN – PTIT HCM.
 
 ---
 
@@ -11,33 +9,33 @@ Dưới đây là danh sách thành viên cùng vai trò tương ứng:
 
   <!-- Member 1 -->
   <div style="text-align: center; width: 200px;">
-    <img src="https://i.imgur.com/xxxxxxxx.png" width="120" height="120" style="border-radius: 50%; object-fit: cover;" />
-    <h3>Nguyễn Văn A</h3>
-    <p><strong>MSSV:</strong> N23xxxx</p>
-    <p><strong>Vai trò:</strong> Team Leader / Backend Developer</p>
+    <img src="https://i.imgur.com/0y0F0Qy.png" width="120" height="120" style="border-radius: 50%; object-fit: cover;" />
+    <h3>Thành viên 1</h3>
+    <p><strong>MSSV:</strong> 23xxxxxxx</p>
+    <p><strong>Vai trò:</strong> Team Leader / Backend</p>
   </div>
 
   <!-- Member 2 -->
   <div style="text-align: center; width: 200px;">
-    <img src="https://i.imgur.com/xxxxxxxx.png" width="120" height="120" style="border-radius: 50%; object-fit: cover;" />
-    <h3>Trần Thị B</h3>
-    <p><strong>MSSV:</strong> N23xxxx</p>
+    <img src="https://i.imgur.com/0y0F0Qy.png" width="120" height="120" style="border-radius: 50%; object-fit: cover;" />
+    <h3>Thành viên 2</h3>
+    <p><strong>MSSV:</strong> 23xxxxxxx</p>
     <p><strong>Vai trò:</strong> Frontend Developer</p>
   </div>
 
   <!-- Member 3 -->
   <div style="text-align: center; width: 200px;">
-    <img src="https://i.imgur.com/xxxxxxxx.png" width="120" height="120" style="border-radius: 50%; object-fit: cover;" />
-    <h3>Lê Văn C</h3>
-    <p><strong>MSSV:</strong> N23xxxx</p>
+    <img src="https://i.imgur.com/0y0F0Qy.png" width="120" height="120" style="border-radius: 50%; object-fit: cover;" />
+    <h3>Thành viên 3</h3>
+    <p><strong>MSSV:</strong> 23xxxxxxx</p>
     <p><strong>Vai trò:</strong> UI/UX Designer</p>
   </div>
 
   <!-- Member 4 -->
   <div style="text-align: center; width: 200px;">
-    <img src="https://i.imgur.com/xxxxxxxx.png" width="120" height="120" style="border-radius: 50%; object-fit: cover;" />
-    <h3>Phạm Thị D</h3>
-    <p><strong>MSSV:</strong> N23xxxx</p>
+    <img src="https://i.imgur.com/0y0F0Qy.png" width="120" height="120" style="border-radius: 50%; object-fit: cover;" />
+    <h3>Thành viên 4</h3>
+    <p><strong>MSSV:</strong> 23xxxxxxx</p>
     <p><strong>Vai trò:</strong> Tester / Documentation</p>
   </div>
 
@@ -46,17 +44,30 @@ Dưới đây là danh sách thành viên cùng vai trò tương ứng:
 ---
 
 ## 📂 Mô tả dự án
-*(Bạn điền mô tả ngắn về dự án vào đây)*
+
+Website **Quản Lý Đặt Bàn Nhà Hàng** cho phép khách hàng đặt bàn theo ngày – giờ, kiểm tra trạng thái bàn, theo dõi lịch sử phục vụ và hỗ trợ nhân viên quản lý hoạt động của nhà hàng theo thời gian thực.
+
+Các tính năng chính:
+
+- Chọn ngày & giờ đặt bàn  
+- Trạng thái bàn: Trống – Đã đặt – Đang phục vụ – Đang dọn bàn  
+- Quản lý sơ đồ bàn, mã bàn, khu vực  
+- Lịch sử đặt bàn (đổi trạng thái “Hoàn tất” → “Đã được phục vụ”)  
+- Form nhập thông tin khách hàng khi đặt bàn  
+- Quản lý thời gian hoạt động (9:00–21:00)  
+- Giao diện responsive, giới hạn tối đa 1400px  
 
 ---
 
 ## 🚀 Công nghệ sử dụng
-- React / Vite
-- NodeJS / Express
-- MySQL / PostgreSQL
-- Các thư viện khác…
+- **Frontend:** React + Vite  
+- **Backend:** NodeJS + Express  
+- **Database:** MySQL  
+- **UI/UX:** Figma  
+- **Triển khai:** (tùy nhóm cập nhật)
 
 ---
 
 ## 📞 Liên hệ
-Nếu cần hỗ trợ thêm, vui lòng liên hệ nhóm thông qua GitHub hoặc Email.
+Cập nhật sau khi hoàn thành hồ sơ nhóm.
+
